@@ -1,5 +1,7 @@
 # Implementation-of-FA
-Implement FA for the Regular Expression: (0 + 1)*1(0+1)*1(0+1)*1(0+1)* . Print the transition table and for input string , show whether it is valid or invalid.
+Implement FA for the Regular Expression: (0 + 1)*1(0+1)*1(0+1)*1(0+1)* . Print the transition table and for input string , show whether it is valid or invalid.  
+![image](https://user-images.githubusercontent.com/59121238/115679107-d5499a00-a36f-11eb-834f-cdb18afd484b.png)
+
 
 1) Clone the python file
 2) create an input.txt file.(Provide input)  
