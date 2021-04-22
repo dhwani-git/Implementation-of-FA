@@ -4,3 +4,4 @@ Implement FA for the Regular Expression: (0 + 1)*1(0+1)*1(0+1)*1(0+1)* . Print t
 1) Clone the python file
 2) create an input.txt file.(Provide input)
 3) Run command : python toc_mini_proj.py <input.txt>output.txt
+
